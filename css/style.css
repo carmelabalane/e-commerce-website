@@ -1,0 +1,19 @@
+
+.carousel-caption{top: 350px;}
+
+
+.bg-orange{background-color: rgb(95, 94, 93); color:white; font-weight: 600; text-align: center;}
+.m-right{border: 2px solid  rgb(95, 94, 93); border-right: 2px solid white;}
+#center{
+    padding-left: 250px;
+}
+#footer{
+    margin-top:150px;
+}
+.success{
+    margin-top: 100px;
+}
+.TH{
+    text-align: center;
+}
+
